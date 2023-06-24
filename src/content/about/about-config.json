@@ -1,0 +1,119 @@
+{
+    "educations": [
+        {
+            "id": "edu-0",
+            "school": "Vietnam National University - University of Engineering and Technology",
+            "degree": "Bachelors in Infomation Technology",
+            "duration": "Aug 2018 - Jun 2022",
+            "content": [
+                "Degree: High Distinction",
+                "GPA: 3.62/4",
+                "Courses: Data Structures, OOP, Algorithms, Software Engineering, Computer Networks, Artificial Intelligence, ..."
+            ]
+        }
+    ],
+    "experiences": [
+        {
+            "id": "exp-0",
+            "company": "Teko Vietnam Technology Joint Stock Company",
+            "position": "Software Engineer",
+            "duration": "Feb 2022 - Now",
+            "description": [
+                "Being a part of an agile team, working closely with product managers, designers and technical leads to ideate, prototype, build and test new products or features.",
+                "Ensuring clean and reusable code by writing unit and functional tests and continually increasing code quality.",
+                "Collaborating with the team through discussions and brainstorming to make technical decisions.",
+                "Reviewing other people's code to learn and understand every piece of the system while ensuring the best code quality as a team.",
+                "Raising my standards, learned new things, and shared knowledge with the team to promote team growth.",
+                "Taking ownership of the product, constantly finding ways to improve its design, system maintainability, performance, and reliability.",
+                "Monitoring and troubleshooting application or system issues by deep diving into technical problems."
+            ]
+        },
+        {
+            "id": "exp-1",
+            "company": "Sao Khue Software and Solutions LTD",
+            "position": "Software Engineer",
+            "duration": "Jan 2020 - Jan 2022",
+            "description": [
+                "Programming web application software (FE & BE).",
+                "Designing prototypes for apps and websites.",
+                "Maintaining and updating existing websites.",
+                "Helping end-users to solve operating problems.",
+                "Participating in discussions with clients."
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "title": "Programming",
+            "tools": [
+                "TypeScript",
+                "JavaScript",
+                "C/C++",
+                "Java",
+                "Python",
+                "Dart",
+                "Gherkin",
+                "NoSQL",
+                "SQL"
+            ]
+        },
+        {
+            "title": "Web",
+            "tools": [
+                "React",
+                "NodeJS",
+                "NextJS",
+                "NestJS",
+                "JavaScript",
+                "HTML",
+                "CSS/SCSS",
+                "i18n"
+            ]
+        },
+        {
+            "title": "Databases",
+            "tools": [
+                "MySQL",
+                "MongoDB",
+                "Firebase",
+                "LevelDB"
+            ]
+        },
+        {
+            "title": "OS & Tools",
+            "tools": [
+                "MacOS",
+                "Linux",
+                "Git",
+                "Docker",
+                "Kubernetes",
+                "Jira",
+                "Confluence",
+                "Slack",
+                "Postman",
+                "VSCode",
+                "IntelliJ",
+                "Android Studio"
+            ]
+        },
+        {
+            "title": "Design",
+            "tools": [
+                "Figma",
+                "Adobe XD",
+                "Illustrator",
+                "Photoshop",
+                "Premiere Pro",
+                "After Effects",
+                "Lightroom"
+            ]
+        }
+    ],
+    "blog": [
+        {
+            "id": "blog-1",
+            "title": "Blog name",
+            "link": "https://google.com"
+        }
+    ]
+}

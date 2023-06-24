@@ -1,0 +1,45 @@
+[
+    {
+        "id": "other-project-dora-jump",
+        "title": "DoraJump",
+        "year": "Jan 2019 - May 2019",
+        "github": "https://github.com/NoCtrlZ1110/DoraJump",
+        "tags": [
+            "C++",
+            "SDL2"
+        ],
+        "description": "A funny game whose gameplay learns from the Doodle Jump game on mobile.",
+        "readMore": "https://docs.google.com/presentation/d/1WjLtebtU2DmCUH_L2BnjOLPuE25OBiu6BICSWpkE65M/edit?usp=sharing",
+        "image": "/assets/other-projects/dora-jump.png",
+        "jpg": "/assets/other-projects/dora-jump.jpg"
+    },
+    {
+        "id": "other-project-tower-defense",
+        "title": "Tower Defense",
+        "year": "Dec 2019",
+        "github": "https://github.com/NoCtrlZ1110/TowerDefense",
+        "tags": [
+            "Java",
+            "SDL2"
+        ],
+        "description": "An immersive and strategic game where players strategically construct powerful towers to fend off relentless enemies and ensure their swift defeat before they can breach the ultimate finish line.",
+        "readMore": "https://docs.google.com/document/d/1quSB1ZJkx_ctqOhkxQGB_d_EU2ZQfDO5V0YLdsMUNwQ/edit?usp=sharing",
+        "image": "/assets/other-projects/tower-defense.png",
+        "jpg": "/assets/other-projects/tower-defense.jpg"
+    },
+    {
+        "id": "other-project-e-garden",
+        "title": "E-Garden",
+        "year": "2020",
+        "github": "https://github.com/NoCtrlZ1110/E-Garden",
+        "readMore": "https://docs.google.com/presentation/d/1nkrBZ-FkiwaaTJTSyJgIqTIugQtPj9AC6mGuR3kgtqU/edit?usp=sharing",
+        "tags": [
+            "Flutter",
+            ".Net Core",
+            "MySQL"
+        ],
+        "description": "A mobile app for learning English.",
+        "image": "/assets/other-projects/e-garden.png",
+        "jpg": "/assets/other-projects/e-garden.jpg"
+    }
+]

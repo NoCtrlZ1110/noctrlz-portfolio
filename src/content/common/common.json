@@ -1,0 +1,30 @@
+{
+    "name": "Nguyễn Văn Huy",
+    "logoType": {
+        "mobile": "NoCtrlZ",
+        "desktop": "Nguyen Van Huy"
+    },
+    "mainPicture": "/assets/me.png",
+    "mainPictureJPG": "/assets/me.jpg",
+    "pronunciation": "/ŋʷiənᶜ² vanᴬ¹ hʷiːᴬ¹/",
+    "audioFile": "/assets/Nguyễn Văn Huy.mp3",
+    "cssVarPrefix": "noctrlz",
+    "email": "huynd.nguyen@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/noctrlz/",
+    "github": "https://github.com/NoCtrlZ1110",
+    "resume": "/assets/resume/Nguyen_Van_Huy_CV.pdf",
+    "socials": [
+        {
+            "type": "linkedin",
+            "link": "https://www.linkedin.com/in/noctrlz/"
+        },
+        {
+            "type": "github",
+            "link": "https://github.com/NoCtrlZ1110"
+        },
+        {
+            "type": "mail",
+            "link": "mailto:huynd.nguyen@gmail.com"
+        }
+    ]
+}
