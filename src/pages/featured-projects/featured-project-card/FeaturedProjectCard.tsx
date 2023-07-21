@@ -56,7 +56,7 @@ export const FeaturedProjectCard: FC<Props> = ({
         <Flex
             justifyContent="space-between"
             id="featured-project-card"
-            py={{ base: "12", md: "12", lg: '28' }}
+            py={{ base: "12", md: "12", lg: "28" }}
             direction={{ base: "column-reverse", lg: ImagePositionLayoutMapper[imagePosition] }}
         >
             <Flex
@@ -128,6 +128,10 @@ export const FeaturedProjectCard: FC<Props> = ({
                         alt={`${title}-cover-image`}
                         transition="all 0.4s ease-in-out"
                         _hover={{ boxShadow: "0px 20px 60px rgb(77 77 77 / 10%)", transform: "scale(1.01)" }}
+                        width="100%"
+                        height="auto"
+                        loading="lazy"
+                        style={{ maxWidth: "100%" }}
                     />
                 </picture>
             </Box>
