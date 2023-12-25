@@ -2,7 +2,7 @@
   "name": "noctrlz-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://noctrlz1110.github.io/",
+  "homepage": "https://vanhuy.dev/",
   "dependencies": {
     "@chakra-ui/react": "^1.8.3",
     "@emotion/react": "^11",
