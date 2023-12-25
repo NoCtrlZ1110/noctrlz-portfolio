@@ -19,6 +19,23 @@
         "jpg": "/assets/featured-projects/tempi.jpg"
     },
     {
+        "id": "featured-project-di-dau-tiep",
+        "title": "DiDauTiep.vn",
+        "year": "Nov 2023 - Present",
+        "location": "Ha Long",
+        "demo": "https://didautiep.vn/",
+        "tags": [
+            "Vue 3",
+            "TypeScript",
+            "NuxtJS",
+            "NestJS",
+            "MySQL"
+        ],
+        "description": "DiDauTiep.vn is a Vietnamese website that helps you find the best places to eat, drink, and relax. It is a product of DiDauTiep Corp and I am mainly involved in this project.",
+        "image": "/assets/featured-projects/didautiep.webp",
+        "jpg": "/assets/featured-projects/didautiep.jpg"
+    },
+    {
         "id": "featured-project-hoclieu",
         "title": "Hoclieu.vn",
         "year": "2020 -  2022",
